@@ -1,4 +1,5 @@
-# ALX Simple Shell Team Project
+# ALX Simple Shell Team Project![image](https://github.com/Joseph-Chukwudiegwu/simple_shell/assets/117829502/c69ba8cd-399d-47f4-b6bd-ed568d273834)
+
 
 > This is an ALX collaboration project on Shell. Our shell shall be called **hsh**
 
